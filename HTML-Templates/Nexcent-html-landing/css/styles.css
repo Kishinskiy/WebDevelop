@@ -19,6 +19,8 @@ li {
   --text-color: #4d4d4d;
 }
 
+
+
 h2 {
     font-size: 25px;
     color: #4D4D4D;
@@ -37,7 +39,7 @@ body {
 }
 
 .container {
-  max-width: 948px;
+  max-width: 1200px;
   margin: 0 auto;
 }
 
@@ -187,7 +189,7 @@ nav {
 }
 
 .wrapper img {
-    width: 300px;
+    width: 600px;
 }
 
 .description__img{
