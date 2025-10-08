@@ -4,6 +4,7 @@
   "description": "![Preview](./images/Preview.png)",
   "main": "index.html",
   "scripts": {
+    "dev": "browser-sync start --server --files \"css/*.css, index.html\" ",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
